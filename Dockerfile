@@ -99,7 +99,7 @@ WORKDIR $HOME/software
 #install PlotX
 RUN git clone https://github.com/ypmen/PlotX.git
 #install XLibs
-RUN git clone https://github.com/ypmen/XLibs.git
+RUN git clone https://github.com/kmjc/XLibs.git
 #install PulsarX
 RUN git clone https://github.com/ypmen/PulsarX.git
 #install BasebandX
